@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.1 (2023-04-28)
+### Fix
+* **ci:** Add bump `github-reusable-workflows` to `0.1.0` ([`d64204a`](https://github.com/cachuperia/blueprint-general/commit/d64204a359c9ff101c5747f29257be4cd6ffaf3f))
+
+### Documentation
+* Add usage section ([`1217d08`](https://github.com/cachuperia/blueprint-general/commit/1217d0864f4b5e329c65684e4e7394a175873935))
+
 ## v0.1.0 (2023-04-28)
 ### Feature
 * Add base configuration ([`714498c`](https://github.com/cachuperia/blueprint-general/commit/714498c05527fd542ebbcb6142d38c693d7b9784))
