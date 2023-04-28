@@ -3,7 +3,7 @@ on:
 
 jobs:
   pre-commit:
-    uses: cachuperia/github-reusable-workflows/.github/workflows/pre-commit.yml@v1.0.2
+    uses: cachuperia/github-reusable-workflows/.github/workflows/pre-commit.yml@v1.1.0
 
   commitlint:
     uses: cachuperia/github-reusable-workflows/.github/workflows/commitlint.yml@v1.0.2
