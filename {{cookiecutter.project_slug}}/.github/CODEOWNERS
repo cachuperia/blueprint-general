@@ -1,5 +1,5 @@
 # https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners#codeowners-syntax
 
-* @IaroslavR
+* @{{ cookiecutter.github_username }}
 
-README.md @um-grande
+README.md @{{ cookiecutter.github_automation_username }}
