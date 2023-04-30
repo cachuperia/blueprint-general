@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v1.0.2 (2023-04-30)
+### Fix
+* Add "list all `make` targets" how-to ([`9f42870`](https://github.com/cachuperia/blueprint-general/commit/9f428708bd0b2e1a4d2882939bcc103211831cb5))
+
 ## v1.0.1 (2023-04-30)
 ### Fix
 * Simplify template readme ([`2e23cec`](https://github.com/cachuperia/blueprint-general/commit/2e23cec4b200e9c112632e9f819c11c098b23cc8))
