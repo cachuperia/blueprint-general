@@ -34,6 +34,8 @@ cd {{ cookiecutter.git_repo_name }}
 make init
 ```
 
+Run `make` to list all available targets.
+
 ### CD/CI
 
 - `check` GitHub [workflow][wch].
