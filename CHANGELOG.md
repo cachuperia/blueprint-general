@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+## v1.0.0 (2023-04-30)
+### Feature
+* Refactor to `cookiecutter` template ([`c007e3c`](https://github.com/cachuperia/blueprint-general/commit/c007e3c80caed5b93aa5c469f17b5d05181176fe))
+
+### Breaking
+* refactor to `cookiecutter` template ([`c007e3c`](https://github.com/cachuperia/blueprint-general/commit/c007e3c80caed5b93aa5c469f17b5d05181176fe))
+
 ## v0.1.1 (2023-04-28)
 ### Fix
 * **ci:** Add bump `github-reusable-workflows` to `0.1.0` ([`d64204a`](https://github.com/cachuperia/blueprint-general/commit/d64204a359c9ff101c5747f29257be4cd6ffaf3f))
