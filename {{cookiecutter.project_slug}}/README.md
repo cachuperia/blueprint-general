@@ -5,24 +5,26 @@
 ## Table of contents
 
 * [About](#about)
-* [Prerequisites](#prerequisites)
 * [Usage](#usage)
-* [CD/CI](#cdci)
 * [Contributing](#contributing)
 
 ## About
 
 {{ cookiecutter.project_short_description }}
 
-## Prerequisites
+## Usage
+
+**TODO**
+
+## Contributing
+
+Commit message style - [Conventional Commits][cc].
+
+### Prerequisites
 
 Tools to install: [git][g], [pre-commit][pk], and [detect-secrets][ds].
 
 You can use [this][a] playbook for automated tools installation.
-
-## Usage
-
-**TODO**
 
 ### Setup local environment
 
@@ -32,17 +34,10 @@ cd {{ cookiecutter.git_repo_name }}
 make init
 ```
 
-Run `make` to list all available targets.
-
-
-## CD/CI
+### CD/CI
 
 - `check` GitHub [workflow][wch].
 - `release` GitHub [workflow][wr]. Release commit types: `fix`, `feat`.
-
-## Contributing
-
-- Commit message style - [Conventional Commits][cc].
 
 
 [a]: https://github.com/cachuperia/ansible-role-server-bootstrap
