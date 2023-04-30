@@ -30,7 +30,7 @@ check:  ## Run pre-commit against all files
 	pre-commit run --all-files
 
 ##@ Miscellaneous
-.PHONY: clean secrets-baseline-create secrets-baseline-audit secrets-update
+.PHONY: clean secrets-baseline-create secrets-baseline-audit secrets-update replace-me
 
 clean:  ## Clean repo
 	# Delete caches, build artifacts, etc.
