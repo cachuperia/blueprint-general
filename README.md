@@ -38,6 +38,11 @@ make init
 
 Run `make` to list all available targets.
 
+### CD/CI
+
+- `check` GitHub [workflow][wch].
+- `release` GitHub [workflow][wr]. Release commit types: `fix`, `feat`.
+
 [a]: https://github.com/cachuperia/ansible-role-server-bootstrap
 [cc]: https://www.conventionalcommits.org/en/v1.0.0/
 [ds]: https://github.com/Yelp/detect-secrets#installation
