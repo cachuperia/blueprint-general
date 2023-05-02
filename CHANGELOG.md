@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+## v1.0.3 (2023-05-02)
+### Fix
+* **docs:** Add template version to the project slug readme ([`ea383fd`](https://github.com/cachuperia/blueprint-general/commit/ea383fdbc55838781ef130a12f4aead6688b63da))
+
+### Documentation
+*  add `CD/CI` section ([`81c916c`](https://github.com/cachuperia/blueprint-general/commit/81c916c6417ac7a38e428f9439ef829706629096))
+
 ## v1.0.2 (2023-04-30)
 ### Fix
 * Add "list all `make` targets" how-to ([`9f42870`](https://github.com/cachuperia/blueprint-general/commit/9f428708bd0b2e1a4d2882939bcc103211831cb5))
