@@ -53,3 +53,5 @@ Run `make` to list all available targets.
 
 [checks]: https://github.com/{{ cookiecutter.github_organization }}/{{ cookiecutter.git_repo_name }}/actions/workflows/checks.yml/badge.svg
 [release]: https://github.com/{{ cookiecutter.github_organization }}/{{ cookiecutter.git_repo_name }}/actions/workflows/release.yml/badge.svg
+
+[//]: # (Project cutted from https://github.com/cachuperia/blueprint-general/tree/v1.0.2)
